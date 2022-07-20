@@ -47,7 +47,7 @@ function About() {
             from Couresera. And now i am looking for new job as Node js
             Developer
           </p>
-          <Link to="#!" className="lets-btn btn btn-primary">
+          <Link to="/Contact" className="lets-btn btn btn-primary">
             Let's Talk
           </Link>
         </div>
